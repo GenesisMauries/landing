@@ -12,7 +12,7 @@
     color: #fff;
     font-size: 12px;
 }
-.alert .row .col-1 button span, .alert .row .col-8 strong {
+.alert .row .col-1 button span, .alert .row .col-8 strong, .principal .col-6 .row .col-7 h6 {
     color: #fff;
 }
 /* Cabecera contacto */
@@ -20,5 +20,29 @@
     padding: 8px;
 }
 .row .imgRectangular img{
-    width: 100px;
+    width: 120px;
+}
+/* Contenedor principal */
+.principal{
+    background-color: #007BFF;
+}
+.principal .col-6 .navPrincipal li a{
+    color: #fff;
+    font-size: 8px;
+    
+}
+
+.principal .col-6 .row .col-7 .row .col-3 .axaLogo{
+    width: 80px;
+}
+.principal .col-6 .row .col-7 .row .col-2 .imgPequeña{
+    width: 50px;
+}
+.principal .col-6 .row .col-7 .beneficios{
+    background-color: #fff;
+    padding: 5px;
+}
+.principal .col-6 .row .col-7 .beneficios .col-2 h6{
+    font-size: 6px;
+    color: #333 !important;
 }
