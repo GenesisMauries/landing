@@ -1,0 +1,16 @@
+.alert{
+    padding: 0 !important;
+    bottom: 0 !important;
+    background-color: #007BFF;
+}
+.alert .row .col-1 .logoAlerta{
+    width: 80px;
+    padding: 5px;
+}
+.alert .row .col-8 strong, .alert .row .col-8 h6{
+    color: #fff;
+    font-size: 12px;
+}
+.alert .row .col-1 button span {
+    color: #fff;
+}
