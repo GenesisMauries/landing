@@ -1,3 +1,4 @@
+/* Alert top */
 .alert{
     padding: 0 !important;
     bottom: 0 !important;
@@ -7,10 +8,17 @@
     width: 80px;
     padding: 5px;
 }
-.alert .row .col-8 strong, .alert .row .col-8 h6{
+ .alert .row .col-8 h6{
     color: #fff;
     font-size: 12px;
 }
-.alert .row .col-1 button span {
+.alert .row .col-1 button span, .alert .row .col-8 strong {
     color: #fff;
+}
+/* Cabecera contacto */
+.navContacto{
+    padding: 8px;
+}
+.row .imgRectangular img{
+    width: 100px;
 }
